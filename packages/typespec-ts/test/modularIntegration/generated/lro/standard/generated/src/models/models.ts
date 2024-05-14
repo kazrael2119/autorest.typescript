@@ -1,6 +1,8 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT license.
 
+import { ErrorModel } from "@azure-rest/core-client";
+
 /** Details about a user. */
 export interface User {
   /** The name of user. */
@@ -20,3 +22,8 @@ export interface ExportedUser {
 /** The API version. */
 /** */
 export type Versions = "2022-12-01-preview";
+
+export interface ErrorResponse {
+  /** The error object. */
+  error: ErrorModel;
+}

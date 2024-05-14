@@ -7,6 +7,7 @@ export {
   UserActionParam,
   UserActionResponse,
   Versions,
+  ErrorResponse,
   RepeatabilityResult,
   SmokeTestOptionalParams,
   RepeatableActionOptionalParams,

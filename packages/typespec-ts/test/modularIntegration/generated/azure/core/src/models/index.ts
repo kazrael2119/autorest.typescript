@@ -10,6 +10,7 @@ export {
   FirstItem,
   SecondItem,
   Versions,
+  ErrorResponse,
   PagedUser,
   PagedFirstItem,
   PagedSecondItem,

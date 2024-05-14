@@ -7,6 +7,7 @@ export {
   User,
   ExportedUser,
   Versions,
+  ErrorResponse,
   CreateOrReplaceOptionalParams,
   DeleteOptionalParams,
   ExportOptionalParams,

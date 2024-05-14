@@ -6,6 +6,7 @@ export {
   UserActionParam,
   UserActionResponse,
   Versions,
+  ErrorResponse,
   RepeatabilityResult,
 } from "./models.js";
 export {

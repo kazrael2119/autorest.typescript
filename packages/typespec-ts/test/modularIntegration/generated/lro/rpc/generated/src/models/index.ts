@@ -6,5 +6,6 @@ export {
   GenerationResponse,
   GenerationResult,
   Versions,
+  ErrorResponse,
 } from "./models.js";
 export { LongRunningRpcOptionalParams } from "./options.js";
